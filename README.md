@@ -1,6 +1,6 @@
 ---
-##Assignment :  Assignment 02
+##Assignment 02
 ---
-Name : Hasnat Zaman Porosh
-Email: poroshhasnatzaman@gmail.com
-Live url: https://rainbow-horse-1c07a9.netlify.app/
+Name : Hasnat Zaman Porosh <br>
+Email: poroshhasnatzaman@gmail.com <br>
+Live url: https://rainbow-horse-1c07a9.netlify.app/ 
